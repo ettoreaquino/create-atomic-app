@@ -1,6 +1,8 @@
 # Create Atomic React App [![](https://img.shields.io/npm/v/atomic-react-scripts.svg)](https://github.com/ettoreaquino/create-atomic-app)
 
-Create React apps using Atomic Deseign with no build configuration.
+Create React apps using Atomic Design with no build configuration.
+
+This build was produced from Facebook's Create React App.
 
 - [Creating an App](#creating-an-app) – How to create a new app.
 - [User Guide](https://facebook.github.io/create-react-app/) – How to develop apps bootstrapped with Create React App.
