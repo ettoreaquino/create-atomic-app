@@ -14,7 +14,7 @@ If something doesn’t work, please [file an issue](https://github.com/facebook/
 
 ```sh
 npx create-react-app my-atomic-app --scripts-version atomic-react-scripts
-cd my-app
+cd my-atomic-app
 npm start
 ```
 
