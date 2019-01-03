@@ -1,14 +1,14 @@
 {
   "name": "react-scripts",
-  "version": "2.1.2",
-  "description": "Configuration and scripts for Create React App.",
-  "repository": "facebook/create-react-app",
+  "version": "0.0.1",
+  "description": "Atomic Design React App Configuration and scripts Create React App",
+  "repository": "ettoreaquino/create-react-app",
   "license": "MIT",
   "engines": {
     "node": ">=6"
   },
   "bugs": {
-    "url": "https://github.com/facebook/create-react-app/issues"
+    "url": "https://github.com/ettoreaquino/create-react-app/issues"
   },
   "files": [
     "bin",
