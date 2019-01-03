@@ -1,7 +1,7 @@
 {
   "name": "atomic-react-scripts",
-  "version": "0.0.1",
-  "description": "Atomic Design React App Configuration and scripts",
+  "version": "0.0.2",
+  "description": "Atomic Designed React App Configuration and scripts",
   "repository": "ettoreaquino/create-atomic-app",
   "license": "MIT",
   "engines": {
